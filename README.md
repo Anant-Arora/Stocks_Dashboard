@@ -50,3 +50,30 @@ This dashboard is a powerful tool for tracking real-time and historical data, em
 7. Beginners & Enthusiasts: Learn the fundamentals of Power BI and Python with a step-by-step approach.
 8. Developers: Explore the integration of Python and Power BI for creating powerful data solutions.
 
+# Skills Used:
+1. Data Extraction & Management:
+Python Programming:
+Scripting and automation for extracting data from various sources (cryptocurrency exchanges, stock markets, ETF databases).
+Data cleaning, transformation, and preparation for analysis.
+SQL:
+Data querying and manipulation within relational databases.
+Power Query:
+Data transformation, cleaning, and integration within the Power BI environment.
+
+2. Data Visualization & Reporting:
+Power BI:
+Creating interactive dashboards and reports.
+Designing visualizations like charts, graphs, tables.
+Features like slicers, filters, and drill-throughs.
+Building and managing data models within Power BI.
+DAX (Data Analysis Expressions):
+Creating calculated measures and columns for advanced data analysis.
+Performing complex calculations and aggregations within Power BI.
+
+3. Data Analysis & Interpretation:
+   
+4. Software & Tools:
+Power BI Desktop
+Python
+SQL Server/Database Management Systems
+Microsoft Excel
